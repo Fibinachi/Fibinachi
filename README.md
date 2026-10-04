@@ -17,6 +17,8 @@ The world's largest open structured dataset of places of worship: **4.9 million 
 - A civil-infrastructure layer for maps: religious sites anchor emergency planning, demographic analysis, and location intelligence the way fire stations and hospitals do
 - Enrichment: websites, phones, emails, diocesan/census/demographic metadata, cross-source corroboration (OSM, Overture, Foursquare, IRS/EIN, CRA, Wikidata, national registries)
 - Demos: [interactive Chicago map](https://github.com/Fibinachi/grid-demos) · [build pipeline](https://github.com/Fibinachi/grid-demos-v2)
+### 🔌 Embedded / IoT
+Longstanding interest in IoT and embedded systems — [ESP32 firmware](https://github.com/Fibinachi/FSOL-XDAGMINER): WiFi networking, on-device web servers, hardware crypto on constrained devices.
 
 ## Background
 - **14QBD273 LLC** — Founder; applied AI evaluation and training (GRID is a research product of the company)
