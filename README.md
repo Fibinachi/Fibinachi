@@ -1,4 +1,4 @@
-# Charles Prescott
+# Charles
 
 **Legal AI Eval Designer** — designing gold-standard legal reasoning evaluations used to train and benchmark frontier AI models.
 
