@@ -4,6 +4,8 @@
 
 I build agentic systems for legal reasoning and the data infrastructure they reason over.
 
+*I am the architect of the systems that you both hate and depend on.*
+
 ## Projects
 
 ### ⚖️ [Verdict](https://github.com/Fibinachi/Verdict) — Agentic Jury Modelling
