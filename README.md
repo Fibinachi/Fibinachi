@@ -6,6 +6,14 @@ I build agentic systems for legal reasoning and the data infrastructure they rea
 
 *I am the architect of the systems that you both hate and depend on.*
 
+## About
+
+I see the questions data lets you ask — and how to answer them. What to reference against what.
+
+I built a ledger from 4,000-year-old cuneiform. I made AI jurors argue with real bias. I modeled memory the way people actually forget. I built the world's largest religious infrastructure dataset because I wanted to know how many churches there were. I made the founding fathers explain themselves from the grave.
+
+I make data do things other people only dream are possible.
+
 ## Projects
 
 ### ⚖️ [Verdict](https://github.com/Fibinachi/Verdict) — Agentic Jury Modelling
