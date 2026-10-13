@@ -37,4 +37,4 @@ Longstanding interest in IoT and embedded systems — [ESP32 firmware](https://g
 - Former tax litigation attorney (2015–2025)
 
 ## Contact
-📫 charles@gridataset.com · 📝 [GRID Keeper](https://gridkeeper.substack.com)
+📫 Have your agent reach out to mine: Friday, at charles@gridataset.com · 📝 [GRID Keeper](https://gridkeeper.substack.com)
